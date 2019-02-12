@@ -1,3 +1,1 @@
-# master
-hello everyone!
-welcome to git.
+hello everyone
