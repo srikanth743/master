@@ -1,2 +1,3 @@
 # master
-test repo for git commands demonstration
+welcome to git
+
